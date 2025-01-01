@@ -2,20 +2,27 @@
 
 **XDA Command Tester** is a PyQt6-based application designed to interact with and simulate the execution of XDA language commands. This tool allows you to manage and test communication with your local servers, IoT devices, and mock environments by sending commands like `<Start>`, `<Stop>`, `Node(API)`, and more.
 
-### Features
+---
+
+## 🛠️ Features
+
 - **XDA Command Simulation**: Execute XDA commands such as `<Start>`, `<Stop>`, and `Node(API)` with a simple GUI.
 - **Responsive Design**: The app is designed to be fully responsive, mimicking Apple’s aesthetic with smooth interactions.
 - **Mock Server Integration**: Test your commands without needing a real server through mock setups.
 - **Real-time Feedback**: Display feedback of command execution status in the app interface.
 - **User-Friendly Interface**: A simple and interactive UI to input and execute commands.
 
-### Screenshots
+---
+
+## 🖼️ Screenshots
 
 Below is a mock screenshot of the app interface:
 
 ![XDA Command Tester](xdadeveloper.png)
 
-### Installation
+---
+
+## 📋 Installation
 
 To run this project on your local machine, follow these steps:
 
@@ -44,7 +51,9 @@ To run this project on your local machine, follow these steps:
 
     The app will open up, and you can start testing the XDA commands.
 
-### Commands List
+---
+
+## 🔧 Commands List
 
 The following XDA commands are supported in the app:
 
@@ -59,14 +68,18 @@ The following XDA commands are supported in the app:
 - **Kill Process**: `<kill> Node[x]` — Kill a process running on a specific node.
 - **Emergency**: `<emer>` — Emergency functions for handling network errors and system failures.
 
-### GUI Features
+---
+
+## 🎨 GUI Features
 
 - **Responsive Layout**: The UI is designed to be responsive and modern, inspired by Apple’s design language.
 - **User Input**: A simple input field for API keys and other data.
 - **Buttons for Commands**: Buttons to simulate starting and stopping nodes, setting API keys, and more.
 - **Feedback Area**: A section in the UI where the output or errors are shown after executing a command.
 
-### Example Command Usage
+---
+
+## 💻 Example Command Usage
 
 - To **Start Node**:
 
@@ -84,3 +97,9 @@ The following XDA commands are supported in the app:
 
     Click the "Connect to Node" button to simulate monitoring and connection commands.
 
+---
+
+## 🚀 Run the App:
+
+```bash
+python main.py
