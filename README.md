@@ -84,15 +84,3 @@ The following XDA commands are supported in the app:
 
     Click the "Connect to Node" button to simulate monitoring and connection commands.
 
-### Design Notes
-
-The application features modern, **Apple-inspired** design with clean lines and responsive elements. Here are some design specifications:
-
-1. **Borders**: Every UI element has smooth, rounded corners to match the Apple design aesthetic.
-2. **Buttons**: Buttons have a subtle hover effect and rounded corners.
-3. **Typography**: The text is easy to read and well-spaced for clarity.
-
-### Example Screenshot with Rounded Corners
-
-```markdown
-![App Screenshot](.xda-logo.png)
