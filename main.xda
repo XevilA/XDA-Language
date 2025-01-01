@@ -1,0 +1,8 @@
+<XDA>
+<Start(Engine(node[3]))>
+<Stop((node [*]))>
+NodeAPI = "uukmfchwoo8763iu4"
+<Conect [NodeAPI]>
+<Stat (Node[*])>
+print(Stat)
+<LOG> (Stat) => "log.txt"
