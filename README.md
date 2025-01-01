@@ -13,7 +13,7 @@
 
 Below is a mock screenshot of the app interface:
 
-![XDA Command Tester](./assets/screenshots/xdacommandtester.jpg)
+![XDA Command Tester](xdadeveloper.png)
 
 ### Installation
 
@@ -22,8 +22,8 @@ To run this project on your local machine, follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-repository/xdacommandtester.git
-    cd xdacommandtester
+    git clone https://github.com/XevilA/XDA-Language/
+    cd XDA-Language
     ```
 
 2. **Install Dependencies**
@@ -95,4 +95,4 @@ The application features modern, **Apple-inspired** design with clean lines and 
 ### Example Screenshot with Rounded Corners
 
 ```markdown
-![App Screenshot](./assets/screenshots/xdacommandtester.jpg)
+![App Screenshot](.xda-logo.png)
